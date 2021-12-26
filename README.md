@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudit Gupta</h1>
-<h3 align="center">An Enthusiast Front-End Developerveloper</h3>
+<h3 align="center">An Enthusiast Front-End Developer</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
