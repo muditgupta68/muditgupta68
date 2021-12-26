@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mudit Gupta</h1>
+<h1 align="center">Hi ✌, I'm Mudit Gupta</h1>
 <h3 align="center">An Enthusiast Front-End Developer</h3>
+
+- 🔭 I’m currently working on **Dashboard using React**
+
+- 👨‍💻 All of my projects are available at [muditgupta](https://muditgupta.herokuapp.com/)
 
 - 🌱 I’m currently learning **ReactJS**
 
@@ -9,9 +13,9 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pckblMtiZZ5kuAkPlKBswtsdxYX9ki5O/view?usp=sharing)
 
-- ⚡ Fun fact **I am quick learner and keen to learn & gain knowledge to handle different tools and technologies**
+- ⚡ Fun fact **Chai is more refreshing than Coffee | Change my mind!**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
