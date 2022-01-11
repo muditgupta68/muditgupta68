@@ -1,14 +1,6 @@
 <h1 align="center">Hi ✌, I'm Mudit Gupta</h1>
 <h3 align="center">An Enthusiast Front-End Developer</h3>
 
-- 🔭 I’m currently working on **Dashboard using React**
-
-- 👨‍💻 All of my projects are available at [muditgupta](https://muditgupta.herokuapp.com/)
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 📝 I write articles on [medium](https://medium.com/@muditgupta1086)
-
 - 📫 How to reach me **muditgupta1086@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pckblMtiZZ5kuAkPlKBswtsdxYX9ki5O/view?usp=sharing)
